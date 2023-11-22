@@ -1,7 +1,7 @@
 # welcome_message
 Edit the Welcome Message for ssh logins
 
-I did the following for an Ubuntu 22.04 LTS server, but similar changes could be made for other distributions.
+I did the following for a Debian 11 (bullseye) server, but similar changes could be made for other distributions.
 
 Remove/hide the existing "Message of the Day"
 
@@ -25,6 +25,8 @@ Dependencies required for script to run "as is":
 
 [toilet](http://caca.zoy.org/wiki/toilet)
 
+Example:
 
+![example](https://us-east-1.linodeobjects.com/baitbucket/welcome.sh_example-sanitized.jpg)
 
 
