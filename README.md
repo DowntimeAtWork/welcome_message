@@ -27,6 +27,6 @@ Dependencies required for script to run "as is":
 
 Example:
 
-![example](https://us-east-1.linodeobjects.com/baitbucket/welcome.sh_example-sanitized.jpg)
+![example](https://us-east-1.linodeobjects.com/baitbucket/welcome.sh_example_image.jpg)
 
 
