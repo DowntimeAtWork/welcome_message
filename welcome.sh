@@ -1,6 +1,6 @@
 #!/bin/bash
 
-# get user's name from entry in GECOS information
+# get user's first name from entry in GECOS information
 
 PERSON=`getent passwd | grep $USER | cut -d: -f 5 | cut -d, -f 1`
 
